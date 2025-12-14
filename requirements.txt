@@ -1,0 +1,11 @@
+numpy
+pandas
+seaborn
+matplotlib
+phik
+scikit-learn
+requests
+torch
+lightautoml
+optuna
+lightgbm
